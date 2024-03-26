@@ -1,14 +1,3 @@
-# Learn-English-Grammar
-Learning English can open up a world of opportunities, from connecting with people globally to advancing your career. Here’s a roadmap to guide you
+# Tenses
 
-# Nouns
-
-Nouns and there types
-
-# Pronouns
-
-Pronouns and there types
-
-# Types Of Sentences
-
-Sentences and there types
+Tense is a grammatical concept that refers to the time when an action, event, or state of being occurs. In English, there are three primary tenses: past, present, and future. Each of these tenses can be further divided into four aspects: simple, continuous (or progressive), perfect, and perfect continuous. These aspects indicate how the action, event, or state of being relates to the passage of time. For example, in the sentence "She is singing," the tense is present, and the aspect is continuous, indicating that the action is happening right now and is ongoing.

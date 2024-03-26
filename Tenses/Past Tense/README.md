@@ -1,14 +1,4 @@
-# Learn-English-Grammar
-Learning English can open up a world of opportunities, from connecting with people globally to advancing your career. Here’s a roadmap to guide you
+# Past tenses
+Past tense is a grammatical tense used to describe an action, event, or state of being that occurred in the past. In English, regular verbs typically form the past tense by adding "-ed" to the base form of the verb (e.g., "walk" becomes "walked"). Irregular verbs, however, have unique past tense forms that do not follow this pattern (e.g., "go" becomes "went"). 
 
-# Nouns
-
-Nouns and there types
-
-# Pronouns
-
-Pronouns and there types
-
-# Types Of Sentences
-
-Sentences and there types
+In addition to simple past tense, English also has other past tense forms such as past continuous (e.g., "was walking"), past perfect (e.g., "had walked"), and past perfect continuous (e.g., "had been walking"), which are used to describe different aspects of past actions or events.
