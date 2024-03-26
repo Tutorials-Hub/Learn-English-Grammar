@@ -1,14 +1,2 @@
-# Learn-English-Grammar
-Learning English can open up a world of opportunities, from connecting with people globally to advancing your career. Here’s a roadmap to guide you
-
-# Nouns
-
-Nouns and there types
-
-# Pronouns
-
-Pronouns and there types
-
-# Types Of Sentences
-
-Sentences and there types
+# Future Tense
+Future tense is a grammatical tense used to describe an action, event, or state of being that will occur or exist in the future. In English, the future tense is often formed using the auxiliary verb "will" or "shall," followed by the base form of the main verb. For example, in the sentence "They will arrive tomorrow," "will arrive" is in the future tense, indicating that the arrival is expected to happen in the future.
